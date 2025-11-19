@@ -1,7 +1,7 @@
 # sistema-gerenciamento
 Projeto de C# - Sistema de gerenciamento de estoque
 
-Adailton Vieira
-Alex Max
-Gustavo Scott
-Jivanildo
+Adailton Vieira \n
+Alex Max \n
+Gustavo Scott \n
+Jivanildo \n
